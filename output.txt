@@ -9,7 +9,7 @@ gemeente Utrecht over u verwerkt. Uw verzoek is geregistreerd onder kenmerk
 identiteitsbewijs dat u via het portaal heeft aangeleverd. 
  
 In de bijlage bij deze brief vindt u een overzicht van alle persoonsgegevens die wij over u 
-verwerken. Dit betreft onder andere uw burgerservicenummer (123456782), uw 
+verwerken. Dit betreft onder andere uw burgerservicenummer ([REDACTED]), uw 
 adresgegevens op de Lange Nieuwstraat 14 te Utrecht, uw e-mailadres 
 j.dewit@example.nl en uw telefoonnummer 06-12345678. 
  
